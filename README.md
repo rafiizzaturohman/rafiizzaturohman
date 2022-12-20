@@ -8,11 +8,9 @@
 </div>
 
 ###
-
+<div algin="center">
 ![snake gif](https://github.com/rafiizzaturohman/rafiizzaturohman/blob/output/github-contribution-grid-snake.gif)
-
-<img src="https://raw.githubusercontent.com/rafiizzaturohman/rafiizzaturohman/blob/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <br clear="both">
