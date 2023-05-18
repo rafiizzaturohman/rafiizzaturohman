@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/id/view/0001-gif-25597406.gif"  />
-
 ###
 
 ###
