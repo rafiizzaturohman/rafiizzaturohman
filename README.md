@@ -13,7 +13,7 @@ Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardwar
   <img src="https://nirzak-streak-stats.vercel.app/?user=rafiizzaturohman&theme=tokyonight&hide_border=false" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiizzaturohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiizzaturohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 
 ## 🏆 GitHub Trophies
