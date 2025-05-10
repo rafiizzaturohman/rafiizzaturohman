@@ -36,6 +36,6 @@ Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardwar
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 <!--   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 </p>
----
+<hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
