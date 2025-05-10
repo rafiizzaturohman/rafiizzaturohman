@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardware developments, Hi! I'm Rafi Izzaturohman, I like to learn new things especially about hardware development, <br>of course besides that I also like to learn programming :><br>🌱 I’m currently learning - NextJS, NestJS, Laravel 12 and Prisma<br>💬 Ask me about - Anything? I guess<br>⚡ Fun fact - It's so easy to make me fall in love, haha
+Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardware developments, Hi! I'm Rafi Izzaturohman, I like to learn new things especially about hardware development, of course besides that I also like to learn programming :><br>🌱 I’m currently learning - NextJS, NestJS, Laravel 12 and Prisma<br>💬 Ask me about - Anything? I guess<br>⚡ Fun fact - It's so easy to make me fall in love, haha
 
 
 ## 🌐 Socials:
