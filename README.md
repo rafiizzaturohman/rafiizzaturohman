@@ -24,13 +24,6 @@ Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardwar
 
 
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiizzaturohman&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-<!-- ![](https://github-profile-trophy.vercel.app/?username=rafiizzaturohman&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-</p>
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
