@@ -14,7 +14,7 @@ Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardwar
 <!-- Stats and Streak in a flex row -->
 <!-- Stats and Streak in a row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiizzaturohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rafiizzaturohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=rafiizzaturohman&theme=tokyonight&hide_border=false" />
 </p>
 
