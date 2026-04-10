@@ -13,12 +13,6 @@ Hey! I am Rafi Izzaturohman, I like to learn new things especially about hardwar
 
 To be honest, there isn't a single tech stack that I've really mastered yet. :)
 # 📊 GitHub Stats:
-<!-- Stats and Streak in a flex row -->
-<!-- Stats and Streak in a row -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiizzaturohman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rafiizzaturohman&theme=tokyonight&hide_border=false" />
-</p>
 
 <!-- Top Languages centered below -->
 <p align="center">
